@@ -1,0 +1,7 @@
+{
+  "expression": {
+    "prefix": "}}",
+    "body": "{{ $1 }}$0",
+    "description": "expression"
+  }
+}

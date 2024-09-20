@@ -1,0 +1,12 @@
+{
+  "insert": {
+    "prefix": "%%",
+    "body": "{% $1$2 %}$0",
+    "description": "insert"
+  },
+  "expression": {
+    "prefix": "}}",
+    "body": "{{ $1 }}$0",
+    "description": "expression"
+  }
+}
